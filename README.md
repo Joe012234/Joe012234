@@ -21,6 +21,6 @@ Perkenalkan nama saya **Joe A. W Manurung**.<br>
 
 Saya seorang **Mahasiswa** di Mahasiswa [Insitut Teknologi DEL](https://www.del.ac.id)
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/joemanurung/)ku ya.
 
 
