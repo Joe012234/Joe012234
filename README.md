@@ -1,4 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joe A. W Manurung</h1>
+<h3 align="center">I am a passionate student of Del Institute of Technology, currently pursuing a degree in Computer Technology. During my studies, I have developed a strong interest in the Internet of Things (IoT) and networking. I believe that these two fields have tremendous potential to change the way we live and work, and I am very excited to be a part of this technological revolution. I am always striving to deepen my knowledge and skills in these areas, both through formal studies and self-learning. I look forward to applying and developing what I have learned in a professional context, and I am confident that my background and interests in IoT and networking will enable me to make meaningful and impactful contributions.</h3>
+
+- 🔭 IoT-Project **Oyster Mushroom Temperature and Humidity Monitoring**
+
+- 🌱 I’m currently learning **C, IoT, Python, Network, Centos 7**
+
+- 👯 IoT-Project **IOT-based chicken egg incubator**
+
+- 📫 How to reach me **joewahid006@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joemanurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joemanurung" height="30" width="40" /></a>
