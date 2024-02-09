@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe A. W Manurung</h1>
-<h3 align="center">I am a passionate student of Del Institute of Technology, currently pursuing a degree in Computer Technology. During my studies, I have developed a strong interest in the Internet of Things (IoT) and networking. I believe that these two fields have tremendous potential to change the way we live and work, and I am very excited to be a part of this technological revolution. I am always striving to deepen my knowledge and skills in these areas, both through formal studies and self-learning. I look forward to applying and developing what I have learned in a professional context, and I am confident that my background and interests in IoT and networking will enable me to make meaningful and impactful contributions.</h3>
+<h3>I'm a beginner in IoT and networking and I'm still in the learning process in my field.</h3>
 
 - 🔭 IoT-Project **Oyster Mushroom Temperature and Humidity Monitoring**
 
