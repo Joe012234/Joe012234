@@ -3,7 +3,7 @@
 
 - 🔭 IoT-Project **Oyster Mushroom Temperature and Humidity Monitoring**
 
-- 🌱 I’m currently learning **C, IoT, Python, Network, Centos 7**
+- 🌱 I’m currently learning **C, IoT, Python, Networking, Centos 7**
 
 - 👯 IoT-Project **IOT-based chicken egg incubator**
 
