@@ -16,7 +16,7 @@
 <a href="https://fb.com/jomanurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jomanurung" height="30" width="40" /></a>
 <a href="https://instagram.com/joe_a.w_manurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe_a.w_manurung" height="30" width="40" /></a>
 <a href="https://www.behance.net/joewahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="joe wahid" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@joewahid006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@joewahid006" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Nopedahlah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@Nopedahlah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
